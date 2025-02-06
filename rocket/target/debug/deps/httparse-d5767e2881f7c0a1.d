@@ -1,0 +1,12 @@
+/home/mark/Desktop/projects/rust testing/rocket/target/debug/deps/libhttparse-d5767e2881f7c0a1.rmeta: /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/sse42.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/avx2.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/runtime.rs
+
+/home/mark/Desktop/projects/rust testing/rocket/target/debug/deps/httparse-d5767e2881f7c0a1.d: /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/sse42.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/avx2.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/runtime.rs
+
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/sse42.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/avx2.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/runtime.rs:
