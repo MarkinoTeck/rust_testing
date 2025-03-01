@@ -1,9 +1,11 @@
 guess-game/target
 rust-book-ch3/target
 rust-book-ch4/target
+rust-book-ch4-pt2/target
 tutorial1/target
 tutorial2/target
 tutorial3/target
 tutorial4/target
 tutorial5/target
 tutorial6/target
+rocket/target
