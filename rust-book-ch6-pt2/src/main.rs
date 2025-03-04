@@ -2,7 +2,17 @@ enum Coin {
     Penny,
     Nickel,
     Dime,
-    Quarter
+    Quarter(UsState)
+}
+
+#[derive(Debug)]
+enum UsState {
+    Alabama,
+    Alaska,
+    Arizona,
+    Arkansas,
+    California,
+    //..
 }
 
 fn main() {
@@ -12,6 +22,8 @@ fn main() {
     let y = Some(5); // can be i32 or none
 
     let sum = x + y.unwrap_or(0);
+
+    value_in_cents(Coin::Quarter(UsState::Alaska));
 }
 
 fn value_in_cents(coin: Coin) -> u8 {
@@ -22,6 +34,9 @@ fn value_in_cents(coin: Coin) -> u8 {
         },
         Coin::Nickel => 5,
         Coin::Dime => 10,
-        Coin::Quarter => 25,
+        Coin::Quarter(state) => {
+            println!("{:?}", state);
+            25
+        },
     }
 }
